@@ -22,7 +22,7 @@ This project was generated with [NPM](https://www.npmjs.com/).
 4.  Configure your database and server port configuration `config/dev.env`
 
     ```
-    MONGO_DB_URL=YOUR MONGODB LOCAL OR CLOD MONGO URL.
+    MONGO_DB_URL=YOUR MONGODB LOCAL OR CLOUD MONGO URL.
     PORT=YOOUR CUSTOM PORT.
     ```
 5.  Run the Server.    
